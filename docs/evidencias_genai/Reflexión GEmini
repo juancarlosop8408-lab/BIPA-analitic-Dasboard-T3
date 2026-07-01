@@ -1,0 +1,10 @@
+Durante el desarrollo del proyecto se instaló y configuró Gemini CLI dentro de GitHub
+
+Se realizaron pruebas de autenticación y ejecución de prompts para apoyar la planeación, generación de código y documentación del dashboard.
+
+Sin embargo, durante la fase de interacción se presentó un error asociado a la validación de la API Key, lo que limitó la generación de respuestas posteriores desde Gemini CLI.
+
+ pesar de ello, las etapas de instalación, configuración y preparación del entorno fueron completadas y documentadas mediante capturas de pantalla.
+
+Las actividades de desarrollo fueron complementadas con herramientas de asistencia basadas en inteligencia artificial para el diseño de KPIs, visualizaciones, hallazgos y módulos analíticos implementados en el dashboard final.
+
